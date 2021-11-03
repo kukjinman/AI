@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2.3.2_Weight_Bias", "2.3.2_Weight_Bias.pyproj", "{13A840C9-CDAE-4ADD-A2D7-EC7869410174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A840C9-CDAE-4ADD-A2D7-EC7869410174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A840C9-CDAE-4ADD-A2D7-EC7869410174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {231B2836-C3A5-42D4-B51A-92C3188E4367}
+	EndGlobalSection
+EndGlobal
