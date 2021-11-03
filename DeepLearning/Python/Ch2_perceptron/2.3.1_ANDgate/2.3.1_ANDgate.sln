@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2.3.1_ANDgate", "2.3.1_ANDgate.pyproj", "{6E4FF3E7-0706-44B7-82E1-C56AEA63DA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4FF3E7-0706-44B7-82E1-C56AEA63DA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4FF3E7-0706-44B7-82E1-C56AEA63DA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FE86C6-E198-4233-88B9-916D042F9D0D}
+	EndGlobalSection
+EndGlobal
