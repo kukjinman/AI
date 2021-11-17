@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3.6.2_neuralnet_mnist", "3.6.2_neuralnet_mnist.pyproj", "{1CE7F6A0-40BA-4E21-9384-E49CE864B182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE7F6A0-40BA-4E21-9384-E49CE864B182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE7F6A0-40BA-4E21-9384-E49CE864B182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C78A7C1-DAA8-4739-B475-2C7EFA2C753B}
+	EndGlobalSection
+EndGlobal
