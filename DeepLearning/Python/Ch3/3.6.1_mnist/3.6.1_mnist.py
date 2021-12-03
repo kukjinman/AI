@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append('E:\SWStudy\github\AI\DeepLearning\Python')  # ºÎ¸ð µð·ºÅÍ¸®ÀÇ ÆÄÀÏÀ» °¡Á®¿Ã ¼ö ÀÖµµ·Ï ¼³Á¤
+sys.path.append('E:\SWStudy\github\AI\DeepLearning\Python')  # ï¿½Î¸ï¿½ ï¿½ï¿½ï¿½Í¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Öµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 import numpy as np
 from dataset.mnist import load_mnist
 from PIL import Image
@@ -16,7 +16,7 @@ label = t_train[0]
 print(label)  # 5
 
 print(img.shape)  # (784,)
-img = img.reshape(28, 28)  # Çü»óÀ» ¿ø·¡ ÀÌ¹ÌÁöÀÇ Å©±â·Î º¯Çü
+img = img.reshape(28, 28)  # ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ Å©ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 print(img.shape)  # (28, 28)
 
 img_show(img)
